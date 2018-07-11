@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\T-Rex offline game\T-Rex offline game\bin\Debug\T-Rex offline game.exe.config
+C:\Users\PC\source\repos\T-Rex offline game\T-Rex offline game\bin\Debug\T-Rex offline game.exe
+C:\Users\PC\source\repos\T-Rex offline game\T-Rex offline game\bin\Debug\T-Rex offline game.pdb
+C:\Users\PC\source\repos\T-Rex offline game\T-Rex offline game\obj\Debug\T-Rex offline game.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\T-Rex offline game\T-Rex offline game\obj\Debug\T_Rex_offline_game.Form1.resources
+C:\Users\PC\source\repos\T-Rex offline game\T-Rex offline game\obj\Debug\T_Rex_offline_game.Properties.Resources.resources
+C:\Users\PC\source\repos\T-Rex offline game\T-Rex offline game\obj\Debug\T-Rex offline game.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\T-Rex offline game\T-Rex offline game\obj\Debug\T-Rex offline game.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\T-Rex offline game\T-Rex offline game\obj\Debug\T-Rex offline game.exe
+C:\Users\PC\source\repos\T-Rex offline game\T-Rex offline game\obj\Debug\T-Rex offline game.pdb
